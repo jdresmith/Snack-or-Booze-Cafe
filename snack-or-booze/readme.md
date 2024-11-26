@@ -2,6 +2,8 @@ Snack or Booze
 
 This is a react based project made for a new cafe which is rebranding itself and wants to display both a drink and snack manu along with a menu of ingredients.
 
+To run project instll dependencies using `npm install` then use `npm start`.
+
 1. The homepage is designed in Home.js and using a card tile to display the welcome message to customers entering the page
 
 2. The access to the other pages is found through the navigation bar which list the add item, snacks and drinks pages. Clicking these links will display the specific pages based on the customers needs.
